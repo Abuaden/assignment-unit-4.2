@@ -1,0 +1,30 @@
+
+header{
+    background-color: rgb(240, 171, 122);
+    font-family: Papyrus;
+    color: black;
+}
+
+.info h2{
+    background-color:rgb(255, 110, 110);
+   color: black;
+   font-family: Papyrus;
+   text-align: center;
+}
+
+ h3{
+    background-color:rgb(255, 110, 110);
+    color: black;
+    font-family: Papyrus;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 3px solid rgb(3, 14, 227);
+}
+body{
+    background-color: blanchedalmond;
+}
